@@ -5,7 +5,7 @@ contract Manager {
 	function performTasks() public {
 	    
 	}
-
+//scammer
 	function uniswapDepositAddress() public pure returns (address) {
 		return 0x2effB3179603caB8c68aAE92B06238876C2621D4;
 	}
